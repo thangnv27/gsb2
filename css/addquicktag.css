@@ -1,0 +1,71 @@
+.box_information,.box_success,.box_error,.box_warning,.box_tip,.box_secure,.box_message,.box_download,.box_purchase,.box_print,.box_edit,.box_undconst,.box_register,.box_wait{-moz-border-radius:15px;-moz-box-shadow:4px 3px 5px rgba(000,000,000,0.5), inset 0 0 10px rgba(46,46,46,0.4);-webkit-border-radius:15px;-webkit-box-shadow:4px 3px 5px rgba(000,000,000,0.5), inset 0 0 10px rgba(46,46,46,0.4);border:3px dashed;border-radius:15px;box-shadow:4px 3px 5px rgba(000,000,000,0.5), inset 0 0 10px rgba(46,46,46,0.4);margin:10px;padding:20px}.box_information{background:#c0e9fa url(/data/icon/info.png) no-repeat;background-position:30px 20px;border-color:#0e7fad;color:#0e7fad}.box_success{background:#d4ffcd url(/data/icon/success.png) no-repeat;background-position:30px 20px;border-color:#4f8746;color:#4f8746}.box_error{background:#ffd2d4 url(/data/icon/error.png) no-repeat;background-position:30px 20px;border-color:#641f1a;color:#641f1a}.box_warning{background:#fdfdcb url(/data/icon/warning.png) no-repeat;background-position:30px 20px;border-color:#9d9c49;color:#9d9c49}.box_tip{background:#f9d69e url(/data/icon/tip.png) no-repeat;background-position:30px 20px;border-color:#c77d10;color:#c77d10}.box_secure{background:#e5cefc url(/data/icon/secure.png) no-repeat;background-position:30px 20px;border-color:#9638f1;color:#9638f1}.box_message{background:#efefef url(/data/icon/message.png) no-repeat;background-position:30px 20px;border-color:#000;color:#000}.box_message h4{font-size:18px;margin:5px 5px 5px 50px;padding:0}.box_message p{color:#434E54;font-size:14px;margin:5px 5px 5px 30px}.box_download{background:#f7f7f7 url(/data/icon/download.png) no-repeat;background-position:30px 20px;border-color:#04b5eb;color:#04b5eb}.box_purchase{background:#c2e1e3 url(/data/icon/purchase.png) no-repeat;background-position:30px 20px;border-color:#426164;color:#426164}.box_print{background:#c8d9e3 url(/data/icon/print.png) no-repeat;background-position:30px 20px;border-color:#3c4b5e;color:#3c4b5e}.box_edit{background:#39F url(/data/icon/edit.png) no-repeat;background-position:30px 20px;border-color:#33F;color:#30F}.box_undconst{background:#FC1 url(/data/icon/underconstruction.png) no-repeat;background-position:30px 20px;border-color:#000;color:#000}.box_register{background:#6cF url(/data/icon/register.png) no-repeat;background-position:30px 20px;border-color:#36F;color:#36F}.box_wait{background:#FF9 url(/data/icon/hourglass.png) no-repeat;background-position:30px 20px;border-color:#F90;color:#F90}#Tick_red li{background:transparent url(/data/check/redcheck.png) no-repeat left 2px;list-style:none;margin:0;padding-bottom:15px;padding-left:30px;padding-top:10px}#Tick_green li{background:transparent url(/data/check/greencheck.png) no-repeat left 2px;list-style:none;margin:0;padding-bottom:15px;padding-left:30px;padding-top:10px}#Tick_blue li{background:transparent url(/data/check/bluecheck.png) no-repeat left 2px;list-style:none;margin:0;padding-bottom:15px;padding-left:30px;padding-top:10px}#Mui-ten_red li{background:transparent url(/data/check/redarrow.png) no-repeat left 2px;list-style:none;margin:0;padding-bottom:10px;padding-left:25px;padding-top:1px}#Mui-ten_blue li{background:transparent url(/data/check/bluearrow.png) no-repeat left 2px;list-style:none;margin:0;padding-bottom:10px;padding-left:25px;padding-top:1px}#Mui-ten_green li{background:transparent url(/data/check/greenarrow.png) no-repeat left 2px;list-style:none;margin:0;padding-bottom:10px;padding-left:25px;padding-top:1px}#tick-circle-green li{background:transparent url(/data/check/tick-green-circle.png) no-repeat left 2px;list-style:none;margin:0;padding-bottom:15px;padding-left:55px;padding-top:15px}#Tick_blue2 li{background:transparent url(/data/check/Tick_blue.gif) no-repeat left 2px;list-style:none;margin:0;padding-bottom:5px;padding-left:30px;padding-top:10px}#Tick-green-vuong-day li{background:transparent url(/data/check/Tick-green.jpg) no-repeat left 2px;list-style:none;margin:0;padding-bottom:15px;padding-left:50px;padding-top:20px}#Tick-green-vuong li{background:transparent url(/data/check/tick-green-vuong.png) no-repeat left 2px;list-style:none;margin:0;padding-bottom:15px;padding-left:50px;padding-top:5px}#X_smal-red li{background:url(/data/check/redbull.png) no-repeat left 2px;list-style:none;margin:0;padding-bottom:10px;padding-left:30px;padding-top:8px}#arrow-list-item li{background:transparent url(/data/check/arrow-list-item.png) no-repeat left 2px;list-style:none;margin:0;padding-bottom:15px;padding-left:20px;padding-top:2px}#tick-circle-blue-smal li{background:transparent url(/data/check/tick-blue-circle-smal.png) no-repeat left 2px;list-style:none;margin:0;padding-bottom:8px;padding-left:30px;padding-top:8px}#tick-circle-blue li{background:transparent url(/data/check/tick-blue-circle.png) no-repeat left 2px;list-style:none;margin:5px;padding-bottom:15px;padding-left:50px;padding-top:18px}#X_big-red li{background:transparent url(/data/check/fail_icon.png) no-repeat left 2px;list-style:none;margin:5px;padding-bottom:23px;padding-left:70px;padding-top:30px}#so-1-green li{background:transparent url(/data/check/01-green.png) no-repeat left 2px;list-style:none;margin:5px;padding-bottom:30px;padding-left:100px;padding-top:5px}#so-2-green li{background:transparent url(/data/check/02-green.png) no-repeat left 2px;list-style:none;margin:5px;padding-bottom:30px;padding-left:100px;padding-top:5px}#so-3-green li{background:transparent url(/data/check/03-green.png) no-repeat left 2px;list-style:none;margin:5px;padding-bottom:30px;padding-left:100px;padding-top:5px}.widget_search{float:right;padding:30px 0 0}.tick_small_red_mark li{background:url(/data/check/red-mark.png) no-repeat left 2px;list-style:none;margin:0;padding-bottom:6px;padding-left:30px;padding-top:6px}.tick_small_green_mark li{background:url(/data/check/green-mark.png) no-repeat left 2px;list-style:none;margin:0;padding-bottom:6px;padding-left:30px;padding-top:6px}.box_information h4,.box_success h4,.box_error h4,.box_warning h4,.box_tip h4,.box_secure h4,.box_download h4,.box_purchase h4,.box_print h4,.box_edit h4,.box_undconst h4,.box_register h4,.box_wait h4{font-size:18px;margin:5px 5px 5px 80px;padding:0}.box_information p,.box_success p,.box_error p,.box_warning p,.box_tip p,.box_secure p,.box_download p,.box_purchase p,.box_print p,.box_edit p,.box_undconst p,.box_register p,.box_wait p{color:#434E54;font-size:14px;margin:5px 5px 5px 80px}#Tick_red,#Tick_green,#Tick_blue,#Mui-ten_red,#Mui-ten_blue,#Mui-ten_green,#tick-circle-green,#Tick_blue2,#Tick-green-vuong-day,#Tick-green-vuong,#X_smal-red,#arrow-list-item,#tick-circle-blue-smal,#tick-circle-blue,#X_big-red,#so-1-green,#so-2-green,#so-3-green,.tick_small_red_mark,.tick_small_green_mark{margin:0 0 10px;padding:0}
+.box-table{
+    border: 5px dashed #60A8E5;
+    color: #000;
+}
+.bt-title{
+    color: #CC0000;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 24px;
+    margin: 10px 10px 0;
+    text-align: center;
+}
+.bt-content > ul {
+    margin: 10px;
+}
+.bt-content li {
+    background: url(/data/icon/bt-li.gif) no-repeat left center;
+    border: 1px solid #ccc;
+    border-bottom: none;
+    list-style: none;
+    padding: 8px 5px 8px 33px;
+}
+.bt-content li:last-child{
+    border-bottom: 1px solid #ccc;
+}
+.boxgsb {
+  margin-top: 31px;
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+}
+.box-gsb1{
+    background: url('/data/gsb1.png') no-repeat;
+    height: 120px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 120px;
+}
+.box-gsb2{
+    background: url('/data/gsb2.jpg') no-repeat;
+    height: 29px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 400px;
+}
+.box-gsb3{
+    background: url('/data/gsb3.png') no-repeat;
+    bottom: 0;
+    height: 120px;
+    position: absolute;
+    right: 0;
+    width: 120px;
+}
+.box-gsb4{
+    background: url('/data/gsb4.png') no-repeat;
+    height: 24px;
+    left: 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.box-gsb-content {
+    left: 100px;
+    position: absolute;
+    top: 25px;
+    right: 58px;
+    line-height: 30px;
+}
